@@ -1,2 +1,0 @@
-# vertice..app
-caixa registradora
